@@ -1,2 +1,4 @@
 # KobeBryant_ShotPredition
-Kaggle competition to predict Koby Bryants made vs missed shots
+This repo contains an iPython Jupyter Notebook with my submission for the Kaggle competition regarding the shots made vs missed by Kobe Bryant.
+The data and the assignment instructions can be found at https://www.kaggle.com/c/kobe-bryant-shot-selection
+
